@@ -14,7 +14,6 @@ O site foi construído utilizando uma variedade de tecnologias e ferramentas mod
 - **AOS (Animate On Scroll)**: Para animações elegantes ao rolar a página.
 - **Particles.js**: Para efeitos visuais interativos em algumas seções do site.
 - **FontAwesome**: Ícones estilizados e de fácil implementação.
-- **EmailJS**: Integrado para facilitar o envio de emails diretamente do site.
 
 ## Características do Site
 
