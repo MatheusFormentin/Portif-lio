@@ -104,12 +104,23 @@ body {
 
 /* BTN PADRÃO */
 .btn {
-    padding: 0.7rem 1.5rem;
+    padding: 0.7rem 2.5rem;
     cursor: pointer;
     border: none;
     outline: none;
     border-radius: 10px;
     background-color: var(--blue);
+    color: var(--white);
+    font-size: 1.2rem;
+}
+
+.btn-carta {
+    padding: 0.7rem 1.5rem;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    background-color: #454545;
     color: var(--white);
     font-size: 1.2rem;
 }
