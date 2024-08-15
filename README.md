@@ -1,9 +1,9 @@
-# RM Developer │ Portfolio
+# Matheus Formentin│ Portfolio
 
 # Imagem do Projeto
-![imagem do projeto](./assets/image/rm-dev-portfolio2.0.png "Link Bio RM Dev 2.0")
+![image](https://github.com/user-attachments/assets/9f1236f6-d8a7-4058-849a-67202c9abd2d)
 
-Este repositório contém o código-fonte do meu site pessoal de portfólio, a RM Developer. É uma vitrine digital onde apresento minhas habilidades e projetos como desenvolvedor web. O site demonstra minha abordagem ao desenvolvimento web, focando em design responsivo, interatividade e experiências de usuário otimizadas.
+Este repositório contém o código-fonte do meu site pessoal de portfólio. É uma vitrine digital onde apresento minhas habilidades e projetos como desenvolvedor web. O site demonstra minha abordagem ao desenvolvimento web, focando em design responsivo, interatividade e experiências de usuário otimizadas.
 
 ## Tecnologias e Ferramentas
 
@@ -14,7 +14,6 @@ O site foi construído utilizando uma variedade de tecnologias e ferramentas mod
 - **AOS (Animate On Scroll)**: Para animações elegantes ao rolar a página.
 - **Particles.js**: Para efeitos visuais interativos em algumas seções do site.
 - **FontAwesome**: Ícones estilizados e de fácil implementação.
-- **EmailJS**: Integrado para facilitar o envio de emails diretamente do site.
 
 ## Características do Site
 
@@ -37,9 +36,8 @@ O site foi construído utilizando uma variedade de tecnologias e ferramentas mod
 
 Estou aberto a colaborações e feedback. Se você tiver sugestões ou quiser discutir possíveis projetos, por favor, entre em contato comigo:
 
-- **Site**: [RM Developer](https://www.rmdeveloper.com.br)
-- **Email**: [contato@rmdeveloper.com.br](mailto:contato@rmdeveloper.com.br)
-- **LinkedIn**: [Ricardo Moura](https://www.linkedin.com/in/ricardomouradev/)
-- **WhatsApp**: [(47) 99216-4395](https://wa.me/5547992164395)
-
+- **Email**: [Formentinmatheus@gmail.com](#)
+- **LinkedIn**: [Matheus Formentin](https://www.linkedin.com/in/matheus-formentin-5b3b8b292/)
+- **WhatsApp**: [(51) 991052719](https://wa.me/5547992164395)
+- 
 Obrigado por visitar meu portfólio!
